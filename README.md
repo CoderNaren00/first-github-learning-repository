@@ -1,3 +1,3 @@
 # first-github-learning-repository
 This is My first Git based learning repository.
-Autor-Narendra jalamkar
+Author-Narendra jalamkar
